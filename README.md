@@ -62,4 +62,4 @@ My Data Science internship at Bharath Inter has been a valuable learning experie
 
 Feel free to explore the project folders for more details and code implementation!
 
-For any inquiries, you can reach out to me at rayhanbasheerpatel@gmail.com.
+For any inquiries, you can reach out to me at 
